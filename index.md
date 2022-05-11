@@ -1,5 +1,9 @@
 I'm a Site Reliability Engineering consultant, specialised in Incident Command, Service Levels (SLI/SLO/SLA), Observability & Automation. I am a certified ScrumMaster.👋
 
+I live in Finland 🇫🇮
+
+I like working for customers that have a solid product & positive impact on society.
+
 **Skills:**
 
 ***People:** Process Management, Leadership, People Management, Product Management, Vendor Management*

@@ -4,11 +4,11 @@ I live in Finland 🇫🇮
 
 I like working for customers that have a solid product & positive impact on society.
 
-**Skills:**
+***People skills:** Process Management, Leadership, People Management, Product Management, Vendor Management*
 
-***People:** Process Management, Leadership, People Management, Product Management, Vendor Management*
+***Tech skills:** Prometheus, Grafana, Datadog, Splunk, Blameless, AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Python, C#, Golang, Unity Engine*
 
-***Tech:** Prometheus, Grafana, Datadog, Splunk, Blameless, AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Python, C#, Golang, Unity Engine*
+... but I am really not religious about tools, I can work with anything - what's important is the positive impact and the results.
 
 ## How can I help you?
 - Can help you get the most out of your observability stack - or help you build it up from scratch

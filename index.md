@@ -7,11 +7,11 @@ I'm a Site Reliability Engineering consultant, specialised in Incident Command, 
 ***Tech:** Prometheus, Grafana, Datadog, Splunk, Blameless, AWS, GCP, Kubernetes, Docker, Terraform, Ansible, Python, C#, Golang, Unity Engine*
 
 ## How can I help you?
-- Help you get the most out of your observability stack - or help you build it up from scratch
-- Help you get better at handling production disruptions and other incidents & escalations in general
-- Help you establish service ownership and align your organisation with *"you build it, you run it"* methodology
-- Help you get the best out of the DevOps ideals
-- Coach your team to develop the right mindset and help you build tooling & processes
+- Can help you get the most out of your observability stack - or help you build it up from scratch
+- Can help you get better at handling production disruptions and other incidents & escalations in general
+- Can help you establish service ownership and align your organisation with *"you build it, you run it"* methodology
+- Can help you get the best out of the DevOps ideals
+- Can coach your team to develop the right mindset and help you build tooling & processes
 
 ## Consulting & Career
 **Zapier, Remote, 🇺🇸 - Site Reliability Engineering Manager

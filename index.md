@@ -14,27 +14,27 @@ I'm a Site Reliability Engineering consultant, specialised in Incident Command, 
 - Can coach your team to develop the right mindset and help you build tooling & processes
 
 ## Consulting & Career
-**Zapier, Remote, 🇺🇸 - Site Reliability Engineering Manager
+**Zapier, Remote 🇺🇸 - Site Reliability Engineering Manager
 (2021 - now)**  
-Polar Squad, Helsinki, 🇫🇮 — Lead SRE Consultant
+Polar Squad, Helsinki 🇫🇮 — Lead SRE Consultant
 (2020 - 2021)  
-Avast Software, Prague, 🇨🇿 — Site Reliability Engineering Advisor
+Avast Software, Prague 🇨🇿 — Site Reliability Engineering Advisor
 (2021)  
-Hatch Entertainment, Helsinki, 🇫🇮 — Cloud Platform Engineer
+Hatch Entertainment, Helsinki 🇫🇮 — Cloud Platform Engineer
 (2020 - 2021)  
-AlphaSense, Helsinki, 🇫🇮 — Site Reliability Engineer
+AlphaSense, Helsinki 🇫🇮 — Site Reliability Engineer
 (2019 - 2020)  
-Keboola, Prague, 🇨🇿 - Site Reliability Engineering Advisor
+Keboola, Prague 🇨🇿 - Site Reliability Engineering Advisor
 (2019)  
-Unity Technologies, Helsinki, 🇫🇮 — Senior Site Reliability Engineer
+Unity Technologies, Helsinki 🇫🇮 — Senior Site Reliability Engineer
 (2018 - 2019)  
-Paddypower Betfair, London, 🇬🇧 — Senior Site Reliability Engineer (Cloud Automation Team)
+Paddypower Betfair, London 🇬🇧 — Senior Site Reliability Engineer (Cloud Automation Team)
 (2017 - 2018)  
-Rackspace, London, 🇬🇧 — Custom Systems Storage Consultant
+Rackspace, London 🇬🇧 — Custom Systems Storage Consultant
 (2015 - 2017)  
-Kapsch, Prague, 🇨🇿 — Storage Architect
+Kapsch, Prague 🇨🇿 — Storage Architect
 (2015 - 2017)  
-Dell/EMC, Prague, 🇨🇿 — Storage Engineer
+Dell/EMC, Prague 🇨🇿 — Storage Engineer
 (2015 - 2017)  
 
 ## 🔥 Some notable projects
@@ -67,5 +67,5 @@ Having problems with the performance of Splunk-as-a-Service offering, I have bui
 
 
 ## Education
-Czech Technical University, Prague, CZ — Dept. of Mechanical Engineering - Industrial Automation
+Czech Technical University, Prague 🇨🇿 — Dept. of Mechanical Engineering ⚙️ - Industrial Automation
 (2006 - 2010)
